@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 
 const PORT = process.env.PORT || 3000
 
-console.log('Deda')
+console.log('Na jehličí')
 
 app.listen(PORT, () => {
     console.log(`🚀 Server is running on http://localhost:${PORT}`)
